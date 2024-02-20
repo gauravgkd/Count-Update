@@ -1,0 +1,22 @@
+#count {
+  font-size: larger;
+  font-weight: bold;
+}
+.b1 {
+  margin-right: 10px;
+}
+.b2 {
+  margin-left: 10px;
+}
+body {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 200px;
+  flex-direction: column;
+  padding-top: 20px;
+}
+.h {
+  justify-content: center;
+  display: flex;
+}
